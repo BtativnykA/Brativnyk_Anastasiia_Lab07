@@ -1,0 +1,5 @@
+.coverage
+*.egg-info/
+students.db
+__pycache__/
+main.py
